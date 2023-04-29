@@ -27,3 +27,6 @@ Example 1                                        |  Example 2
 
 ## Usage
 python3 /src/main.py
+
+## Evaluation scripts
+Evaluation measurements for a domain-oriented test suite [/Evaluation%20measurements.ipynb]
