@@ -3,7 +3,7 @@
 Experiment code associated with our paper:
 AMANDA: A Memetic Algorithm for Domain-oriented MC/DC coverage
 
-AMANDA is a domain oriented test adequacy for logic coverage criteria. 
+AMANDA is a domain oriented test adequacy for logic coverage criteria. In this approach, by searching the region of the program under test and selecting an instance from each sub-domain, by adding them to the test set that still statisfy the MC/DC criterion, we reach a new criterion called domain-oriented MC/DC.
 
 ## Architecture
 ![alt text](/AMANDA_diagram.jpg)
