@@ -29,4 +29,4 @@ Example 1                                        |  Example 2
 python3 /src/main.py
 
 ## Evaluation scripts
-Evaluation measurements for a domain-oriented test suite [a relative link](/Evaluation%20measurements.ipynb)
+[Evaluation measurements for a domain-oriented test suite](/Evaluation%20measurements.ipynb)
