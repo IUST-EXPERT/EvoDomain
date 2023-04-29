@@ -32,3 +32,6 @@ python3 /src/main.py
 [Evaluation measurements for a domain-oriented test suite](/Evaluation%20measurements.ipynb)
 
 [DBSCAN clustering to select test data from each subdomain](/Postprocessing.ipynb)
+
+## Final result
+To evaluate AMANDA approach, two categories of classic and industrial problems are defined. You can see more experimental details [here](https://www.dropbox.com/home/AMANDA).
