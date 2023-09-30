@@ -1,9 +1,9 @@
-# Domain_oriented_Logic_Coverage
+# EvoDomain
 
 Experiment code associated with our paper:
-AMANDA: A Memetic Algorithm for Domain-oriented MC/DC coverage
+Improving Fault Detection and Localization Using a Search-Based Domain-Oriented Test Suite Generation
 
-AMANDA is a domain oriented test adequacy for logic coverage criteria. In this approach, by searching the region of the program under test and selecting an instance from each sub-domain, by adding them to the test set that still statisfy the MC/DC criterion, we reach a new criterion called domain-oriented MC/DC.
+EvoDomain is a domain-oriented test adequacy for logic coverage criteria. In this approach, by searching the region of the program under test and selecting an instance from each sub-domain, by adding them to the test set that still satisfies the MC/DC criterion, we reach a new criterion called domain-oriented MC/DC.
 
 ## Architecture
 ![alt text](/AMANDA_diagram.jpg)
@@ -34,4 +34,4 @@ python3 /src/main.py
 [DBSCAN clustering to select test data from each subdomain](/Postprocessing.ipynb)
 
 ## Final result
-To evaluate AMANDA approach, two categories of classic and industrial problems are defined. You can see more experimental details [here](https://www.dropbox.com/home/AMANDA).
+To evaluate the EvoDomain approach, two categories of classic and industrial problems are defined. You can see more experimental details [here](https://www.dropbox.com/home/AMANDA).
