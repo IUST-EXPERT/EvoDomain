@@ -6,7 +6,7 @@ Improving Fault Detection and Localization Using a Search-Based Domain-Oriented 
 EvoDomain is a domain-oriented test adequacy for logic coverage criteria. In this approach, by searching the region of the program under test and selecting an instance from each sub-domain, by adding them to the test set that still satisfies the MC/DC criterion, we reach a new criterion called domain-oriented MC/DC.
 
 ## Architecture
-![alt text](/diagram.jpg)
+![alt text](/diagram.png)
 
 ## 2D examples
 Example 1                                        |  Example 2
