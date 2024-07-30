@@ -33,5 +33,5 @@ python3 /src/main.py
 
 [DBSCAN clustering to select test data from each subdomain](/Postprocessing.ipynb)
 
-## Final result
-To evaluate the EvoDomain approach, two categories of classic and industrial problems are defined. You can see more experimental details [here](https://www.dropbox.com/home/AMANDA).
+## Evaluation results
+To evaluate the EvoDomain approach, two categories of classic and industrial problems are defined. You can see more experimental details [here](https://www.dropbox.com/scl/fo/cdgx54vfwawcqothy3jco/AP_7HWqjJQ1gIF1WqdlMxaY?rlkey=2ebvxx88vwkxcqjsrd1n97poc&st=ifnhdajg&dl=0).
